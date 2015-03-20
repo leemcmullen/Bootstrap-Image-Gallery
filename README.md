@@ -11,12 +11,12 @@
 ## Demo
 [Bootstrap Image Gallery Demo](https://blueimp.github.io/Bootstrap-Image-Gallery/)
 
-## Description
 Bootstrap Image Gallery is an extension to [blueimp Gallery](https://blueimp.github.io/Gallery/), a touch-enabled, responsive and customizable image &amp; video gallery.  
+## Description
 It displays images and videos in the modal dialog of the [Bootstrap](http://getbootstrap.com/) framework, features swipe, mouse and keyboard navigation, transition effects, fullscreen support and on-demand content loading and can be extended to display additional content types.
 
 ## Setup
-Copy the **css**, **img** and **js** directories to your website.
+Copy the **css**, **img** and **js** directories to your website. Also copy the **img** directory from the base [blueimp Gallery](https://blueimp.github.io/Gallery/).
 
 Add the following HTML snippet to the head section of your webpage:
 
